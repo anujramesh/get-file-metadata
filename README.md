@@ -1,6 +1,6 @@
 # get-file-metadata
-Inspiration for this project: <br /> https://www.reddit.com/r/learnjava/comments/7ve0gv/java_intermediate_projects_for_practice/
-<br />
+Inspiration for this project: <br /> https://www.reddit.com/r/learnjava/comments/7ve0gv/java_intermediate_projects_for_practice/ <br /> 
+<br /> 
 This program: <br />
     - Sifts through a directory for all files with a certain file extention (currently set to .pdf) <br />
     - Extracts the basic attributes (metadata) of the files <br />
